@@ -5,7 +5,7 @@
 Ziemia okazała się być wielkim jajem!
 Trzęsienia ziemi które znamy, erupcje wulkanów i ruchy tektoniczne, wszystkie są konsekwencją wykluwania młodego "[Pożeracza Słońc](pozeracze-slonc)". 
 
-Wykluwanie tych gigantycznych bestii trwa dłużej niż życie najbardziej długowiecznych istot na powierzchni ziemi, i efekty są tak wolne że nikt na nie nigdy nie zwracał uwagi. Nawet mity nie przetrwały wystarczająco by ostrzec o tych kolosach, ponieważ ich światowa populacja nigdy nie przekracza pojedynczych cyfr. Skutkiem tego jest Armageddon dla nic niewiedzących istot które skorupę tego jaja nazywają domem. Sytuacja zmieniła się kilkadziesiąt lat temu kiedy druidzi w podziemiach [najwyższych gór(nazwij je)](gory) wyczuli silną aurę życia i magii, badając niedawne zalanie tuneli lawą. Bo kilku latach badań odkryli w końcu winowajcę. Druidzi podzielili się na trzy grupy.
+Wykluwanie tych gigantycznych bestii trwa dłużej niż życie najbardziej długowiecznych istot na powierzchni ziemi, i efekty są tak wolne że nikt na nie nigdy nie zwracał uwagi. Nawet mity nie przetrwały wystarczająco by ostrzec o tych kolosach, ponieważ ich światowa populacja nigdy nie przekracza pojedynczych cyfr. Skutkiem tego jest Armageddon dla nic niewiedzących istot które skorupę tego jaja nazywają domem. Sytuacja zmieniła się kilkadziesiąt lat temu kiedy druidzi w podziemiach [Kalnas](kalnas) wyczuli silną aurę życia i magii, badając niedawne zalanie tuneli lawą. Bo kilku latach badań odkryli w końcu winowajcę. Druidzi podzielili się na trzy grupy.
 
 ## Frakcje
 ### [Setaci](setaci)
@@ -22,7 +22,7 @@ Są oni tajną organizacją *(coś w stylu filmowych Masonów)*, i próbują trz
 **Symbole:**  
 <img width="100" height="108" alt="image" src="https://github.com/user-attachments/assets/0f1aa259-42a3-47df-a1d7-c28686ac7003" />  
 **Opis:** 
-Powrzechnie uważani za sektę szaleńców i heretyków. Uznają pożeracza za istotę boską, chcą żeby się wykluł i chronią go przed Setatami. Mają więcej członków niż Setaci, ale tylko kilku wpływowych. Poświęcenie mieszkańców ziemi, dla niektórych jest wolą bożą, dla innych nie ma ono znaczenia. Po odkryciu pożeracza, część druidów przejeła kontrolę nad podziemiami gór, powstałych w skutek napierania płodu, by go chronić. 
+Powrzechnie uważani za sektę szaleńców i heretyków. Uznają pożeracza za istotę boską, chcą żeby się wykluł i chronią go przed Setatami. Mają więcej członków niż Setaci, ale tylko kilku wpływowych. Poświęcenie mieszkańców ziemi, dla niektórych jest wolą bożą, dla innych nie ma ono znaczenia. Po odkryciu pożeracza, część druidów przejeła kontrolę nad podziemiami Kalnas, powstałych w skutek napierania płodu, by go chronić. 
 
 ### [Prepperzy](prepperzy)
 **Cel:** Uratować populację ziemi uciekając.  
