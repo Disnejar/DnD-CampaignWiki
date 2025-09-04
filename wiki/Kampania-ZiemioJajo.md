@@ -20,6 +20,16 @@ Są oni tajną organizacją *(coś w stylu filmowych Masonów)*, i próbują trz
 **Cel:** Chcą by pożeracz siẹ urodził   
 **Pochodzenie nazwy:** (Jedyny [Artykuł](https://www.whalefacts.org/whales-in-mythology/#The_story_of_Big_Raven:~:text=The%20story%20of%20Big%20Raven), ale jednak) Wiara inuicka   
 **Symbole:**  
-<img width="1000" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f1aa259-42a3-47df-a1d7-c28686ac7003" />
+<img width="100" height="108" alt="image" src="https://github.com/user-attachments/assets/0f1aa259-42a3-47df-a1d7-c28686ac7003" />  
 **Opis:** 
-Powrzechnie uważani za sektę szaleńców i heretyków. Uznają pożeracza za istotę boską, chcą żeby się wykluł i chronią go przed Setatami. Mają więcej członków niż Setaci, ale tylko kilku wpływowych. Wielu z nich nie obchodzi co się stanie po wykluciu 
+Powrzechnie uważani za sektę szaleńców i heretyków. Uznają pożeracza za istotę boską, chcą żeby się wykluł i chronią go przed Setatami. Mają więcej członków niż Setaci, ale tylko kilku wpływowych. Poświęcenie mieszkańców ziemi, dla niektórych jest wolą bożą, dla innych nie ma ono znaczenia. Po odkryciu pożeracza, część druidów przejeła kontrolę nad podziemiami gór, powstałych w skutek napierania płodu, by go chronić. 
+
+### [Prepperzy](prepperzy)
+**Cel:** Uratować populację ziemi uciekając.  
+**Pochodzenie nazwy:** Angielskie określenie na osoby które się przygotowywują na najgorsze.  
+**Symbole:**  
+- Sokół
+- Łódź
+- Drzwi/Portal/Przejście
+**Opis:**  
+Prepperzy są grupą która nie uważa zabicia płodu za dobre rozwiązanie ale nie przechodzi obojętnie obok życia śmiertelników którzy umrą kiedy ziemia zostanie zniszczona. Są dużo mniej zorganizowani niż Setaci. Badają możliwości masowej teleportacji, i podróży międzyplanarnej, aby ewakuować ludzi jak najszybciej. Tak jak Setaci, prepperzy operują w ukryciu żeby nie robić ludziom błędnej nadzieii i żeby być bezpieczniejszym od ekstremistów. W dodatku do tego, magia którą badają często jest niebezpieczna, zwłaszcza w nieodpowiednich rękach.  
