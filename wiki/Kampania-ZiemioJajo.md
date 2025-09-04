@@ -30,6 +30,6 @@ Powrzechnie uważani za sektę szaleńców i heretyków. Uznają pożeracza za i
 **Symbole:**  
 - Sokół
 - Łódź
-- Drzwi/Portal/Przejście
+- Drzwi/Portal/Przejście   
 **Opis:**  
 Prepperzy są grupą która nie uważa zabicia płodu za dobre rozwiązanie ale nie przechodzi obojętnie obok życia śmiertelników którzy umrą kiedy ziemia zostanie zniszczona. Są dużo mniej zorganizowani niż Setaci. Badają możliwości masowej teleportacji, i podróży międzyplanarnej, aby ewakuować ludzi jak najszybciej. Tak jak Setaci, prepperzy operują w ukryciu żeby nie robić ludziom błędnej nadzieii i żeby być bezpieczniejszym od ekstremistów. W dodatku do tego, magia którą badają często jest niebezpieczna, zwłaszcza w nieodpowiednich rękach.  
