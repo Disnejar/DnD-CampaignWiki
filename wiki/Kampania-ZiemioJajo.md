@@ -20,5 +20,6 @@ Są oni tajną organizacją *(coś w stylu filmowych Masonów)*, i próbują trz
 **Cel:** Chcą by pożeracz siẹ urodził   
 **Pochodzenie nazwy:** (Jedyny [Artykuł](https://www.whalefacts.org/whales-in-mythology/#The_story_of_Big_Raven:~:text=The%20story%20of%20Big%20Raven), ale jednak) Wiara inuicka   
 **Symbole:**  
+<img width="1000" height="1080" alt="image" src="https://github.com/user-attachments/assets/0f1aa259-42a3-47df-a1d7-c28686ac7003" />
 **Opis:** 
-Powrzechnie uważani za sektę szaleńców i heretyków. Uznają pożeracza za istotę boską,
+Powrzechnie uważani za sektę szaleńców i heretyków. Uznają pożeracza za istotę boską, chcą żeby się wykluł i chronią go przed Setatami. Mają więcej członków niż Setaci, ale tylko kilku wpływowych. Wielu z nich nie obchodzi co się stanie po wykluciu 
