@@ -3,7 +3,7 @@
 
 ## Opis
 Ziemia okazała się być wielkim jajem!
-Trzęsienia ziemi które znamy, erupcje wulkanów i ruchy tektoniczne, wszystkie są konsekwencją wykluwania młodego "[Pożeracza Słońc](pozeracze-slonc)". 
+Trzęsienia ziemi które znamy, erupcje wulkanów i ruchy tektoniczne, wszystkie są konsekwencją wykluwania młodego "[Pożeracza Słońc](pozeracz-slonc)". 
 
 Wykluwanie tych gigantycznych bestii trwa dłużej niż życie najbardziej długowiecznych istot na powierzchni ziemi, i efekty są tak wolne że nikt na nie nigdy nie zwracał uwagi. Nawet mity nie przetrwały wystarczająco by ostrzec o tych kolosach, ponieważ ich światowa populacja nigdy nie przekracza pojedynczych cyfr. Skutkiem tego jest Armageddon dla nic niewiedzących istot które skorupę tego jaja nazywają domem. Sytuacja zmieniła się kilkadziesiąt lat temu kiedy druidzi w podziemiach [Kalnas](kalnas) wyczuli silną aurę życia i magii, badając niedawne zalanie tuneli lawą. Bo kilku latach badań odkryli w końcu winowajcę. Druidzi podzielili się na trzy grupy.
 
