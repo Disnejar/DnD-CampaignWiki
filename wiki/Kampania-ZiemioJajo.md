@@ -34,3 +34,11 @@ Powrzechnie uważani za sektę szaleńców i heretyków. Uznają pożeracza za i
 
 **Opis:**  
 Prepperzy są grupą która nie uważa zabicia płodu za dobre rozwiązanie ale nie przechodzi obojętnie obok życia śmiertelników którzy umrą kiedy ziemia zostanie zniszczona. Są dużo mniej zorganizowani niż Setaci. Badają możliwości masowej teleportacji, i podróży międzyplanarnej, aby ewakuować ludzi jak najszybciej. Tak jak Setaci, prepperzy operują w ukryciu żeby nie robić ludziom błędnej nadzieii i żeby być bezpieczniejszym od ekstremistów. W dodatku do tego, magia którą badają często jest niebezpieczna, zwłaszcza w nieodpowiednich rękach.  
+## Wprowadzenie
+*"Jesteś w czarnym miejscu, wypełnionym jasnymi kropkami. Przed tobą jest większa czerwona kula, która sie do was zbliża. A może to ty się do niej zbliżasz? Czujesz głód. Kula rośnie aż wydaje się być na wyciągnięcie ręki."* - sen który mają gracze.
+
+Budzicie się w karczmie pokryci potem. Czujecie że głód że snu nie minął. 
+
+... Gracze pewnie zchodzą aby zjeść śniadanie 
+
+
