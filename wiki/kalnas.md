@@ -5,4 +5,4 @@ U południowego podnóża wschodnich Kalnas znajduje się [Księstwo Ilne](ilne)
 
 <img width="100%" height="auto" alt="Góry Kalnas" src="https://github.com/user-attachments/assets/e8930367-b579-4ee7-8fbe-8abc73fdde1c" />
 
-Przełęcz jest skutkiem napierania na skorupę przez płód. W tunelach zachodnich Kalnas dokonana odkrycia istnienia [pożeracza](pozeracz-slonc).
+Przełęcz jest skutkiem napierania na skorupę przez płód. W tunelach zachodnich Kalnas dowiedziano się o prawdziwej naturze ziemi i istnieniu [pożeracza](pozeracz-slonc).
