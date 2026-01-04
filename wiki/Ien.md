@@ -14,6 +14,7 @@
 | Wojownik  | 2     |
 | Łotrzyk   | 5     |
 | Assasyn   | 3     |
+
 </details>
 
 **Atrybuty:**
@@ -48,6 +49,7 @@
 | Zastraszanie | | 2 |
 | Zbieranie Informacji | 6 |
 | Zwinność | 5 |
+
 </details>
 <details>
 <summary> <strong>Zdolności:</strong> </summary>
@@ -81,6 +83,17 @@ Atak śmierci (Assasyn)
 
 Użycie trucizny (Assasyn)
 : Assasyn nigy nie może się otruć podczas pokrywaniu ostrza trucizną.
+</details>
+
+<details>
+<summary>
+<strong>Czary:</strong>
+</summary>
+
+- [True Strike](https://www.dandwiki.com/wiki/SRD:True_Strike)
+- [Jump](https://www.dandwiki.com/wiki/SRD:Jump)
+- [Sleep](https://www.dandwiki.com/wiki/SRD:Sleep)
+- [Detect Poison](https://www.dandwiki.com/wiki/SRD:Detect_Poison)
 
 </details>
 
