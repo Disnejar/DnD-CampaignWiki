@@ -16,4 +16,8 @@ Podczas podróży z drużyną palaczy przyjmował postać Kiary; młodej czarnow
 
 `test czy coś`
 
+test2
+: to jest test
+: czy coś
+
 ## Historia:
